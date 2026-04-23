@@ -67,18 +67,6 @@ com.example.contacts/
 
 ---
 
-## 🚀 Como Executar
-
-```bash
-git clone https://github.com/seu-usuario/contacts-app.git
-```
-
-1. Abra no **Android Studio Hedgehog** ou superior
-2. Aguarde a sincronização do Gradle
-3. Execute em emulador ou dispositivo físico (`minSdk 24`)
-
----
-
 ## License
 ```
 The MIT License (MIT)
