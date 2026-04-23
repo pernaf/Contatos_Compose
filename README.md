@@ -71,7 +71,7 @@ com.example.contacts/
 ```
 The MIT License (MIT)
 
-Copyright (c) 2024 Gabriel de Oliveira Carvalho
+Copyright (c) 2026 Gabriel de Oliveira Carvalho
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
