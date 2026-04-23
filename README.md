@@ -16,7 +16,7 @@
 
 <div align="center">
 
-| Tela Inicial | Lista de Contatos | Adicionar Contato |
+| Tela Inicial | Novo Contato | Lista de Contatos adicionados/excluir contato |
 |:---:|:---:|:---:|
 | <img width="702" height="1600" alt="Tela inicial" src="https://github.com/user-attachments/assets/71aefa12-5b62-4aec-8ed3-eb5aa7e6e991" /> | <img width="702" height="1600" alt="Tela adicionar contato" src="https://github.com/user-attachments/assets/c3d40e83-b41b-4843-a723-8f83f467c52a" /> | <img width="702" height="1600" alt="Tela com contatos adicionados" src="https://github.com/user-attachments/assets/a3c3b940-9e17-4b4a-9aa2-21f27b3b896b" />> |
 
@@ -95,6 +95,7 @@ subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+----
 
 <div align="center">
 
