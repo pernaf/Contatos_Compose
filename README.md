@@ -18,7 +18,7 @@
 
 | Tela Inicial | Lista de Contatos | Adicionar Contato |
 |:---:|:---:|:---:|
-| <img src="screenshots/tela_inicial.jpeg" width="200"/> | <img src="screenshots/tela_contatos.jpeg" width="200"/> | <img src="screenshots/tela_adicionar.jpeg" width="200"/> |
+| <img width="702" height="1600" alt="Tela inicial" src="https://github.com/user-attachments/assets/71aefa12-5b62-4aec-8ed3-eb5aa7e6e991" /> | <img width="702" height="1600" alt="Tela adicionar contato" src="https://github.com/user-attachments/assets/c3d40e83-b41b-4843-a723-8f83f467c52a" /> | <img width="702" height="1600" alt="Tela com contatos adicionados" src="https://github.com/user-attachments/assets/a3c3b940-9e17-4b4a-9aa2-21f27b3b896b" />> |
 
 </div>
 
@@ -79,8 +79,25 @@ git clone https://github.com/seu-usuario/contacts-app.git
 
 ---
 
+## License
+```
+The MIT License (MIT)
+
+Copyright (c) 2024 Gabriel de Oliveira Carvalho
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+
 <div align="center">
 
-Feito com ❤️ e Jetpack Compose
+Feito com Jetpack Compose
 
 </div>
